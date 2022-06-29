@@ -1,0 +1,11 @@
+.btn{margin: auto; max-width: 100%; text-align: center;}
+#increment-btn{
+  background-color: red; 
+  color: #fff; 
+  padding: 5px 10px; 
+  font-size: 15px;
+  border: none;
+  font-weight: bold;
+  width: 50%;
+  }
+  h1, h2{color: #fff; text-align: center; font-weight: bold;}
