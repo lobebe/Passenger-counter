@@ -1,3 +1,5 @@
+body{text-align: center;}
+
 .btn{margin: auto; max-width: 100%; text-align: center;}
 #increment-btn{
   background-color: red; 
@@ -6,6 +8,16 @@
   font-size: 15px;
   border: none;
   font-weight: bold;
-  width: 50%;
+  width: 20%;
   }
-  h1, h2{color: #fff; text-align: center; font-weight: bold;}
+  h1, h2{color: blue; text-align: center; font-weight: bold;}
+  #save-btn{
+    margin-top: 20px;
+  background-color: green; 
+  color: #fff; 
+  padding: 5px 10px; 
+  font-size: 15px;
+  border: none;
+  font-weight: bold;
+  width: 20%;
+  }
