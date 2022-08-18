@@ -1,23 +1,50 @@
-body{text-align: center;}
+body {
+  text-align: center;
+}
 
-.btn{margin: auto; max-width: 100%; text-align: center;}
-#increment-btn{
-  background-color: red; 
-  color: #fff; 
-  padding: 5px 10px; 
-  font-size: 15px;
+.btn {
+  margin: auto;
+  max-width: 100%;
+  text-align: center;
+}
+
+#increment-btn {
+  background-color: #F04520;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1.3em;
   border: none;
   font-weight: bold;
-  width: 20%;
-  }
-  h1, h2{color: blue; text-align: center; font-weight: bold;}
-  #save-btn{
-    margin-top: 20px;
-  background-color: green; 
-  color: #fff; 
-  padding: 5px 10px; 
-  font-size: 15px;
+  
+}
+p#save-el {
+    color: #F04520;
+    font-weight: bold;
+}
+h1,
+h2 {
+  color: #1073E5;
+  text-align: center;
+  font-weight: bold;
+}
+
+#save-btn {
+  margin-top: 20px;
+  background-color: #1073E5;
+  color: #fff;
+  padding: 10px 20px;
   border: none;
   font-weight: bold;
-  width: 20%;
-  }
+ 
+  border-radius: 5px;
+  font-size: 1.3em;
+}
+.container {
+    background: #AFD5EB;
+    margin: auto;
+    padding: 3%;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 5px;
+}
